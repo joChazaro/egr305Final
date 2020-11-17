@@ -1,4 +1,4 @@
-# egr305Final
+# EGR305 - Final
 # Professor's Knisley's Assigned Engineering Statistics Final (Fall 2020)
 
 ## Question 1
