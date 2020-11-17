@@ -26,9 +26,10 @@ Are there interaction effects? If so, explain what they are and interpret the ou
 
 ## Question 3
 **Soda**
+
+**Observations:** for 6 brands of soda, we recorded the sodium content of 8 and 12 ounce bottles. 
 - How much sodium is there in North American soda? 
 - How much does this vary by brand? 
-**Observations:** for 6 brands of soda, we recorded the sodium content of 8 and 12 ounce bottles. 
 - Determine which effects should be considered fixed and which should be considered random.
 - What is the “grand mean” sodium content? 
 - How much variability is there from brand to brand? 
